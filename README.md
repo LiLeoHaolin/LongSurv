@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains computing codes for the paper "Design and Analysis of Clinical Trials with Survival Outcome by Incorporating Pre-Randomization Longitudinal Biomarkers". 
+This repository contains computing code for the paper "Design and Analysis of Clinical Trials with Survival Outcome by Incorporating Pre-Randomization Longitudinal Biomarkers". 
 
 ## Naming Convention 
 
